@@ -1,1 +1,7 @@
 # c8y-eaton
+
+Scripts to access Eaton tenant in Cumulocity IoT platform and perform various reports
+
+* Preconditions
+
+Following modules need to be installed: c8y-api, python-dotenv

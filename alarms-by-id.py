@@ -9,6 +9,7 @@
 #C8Y_USERNAME=<Your username>
 #C8Y_PASSWORD=<Your password>
 #
+# (C) 2025 by Alexander Bezprozvanny
 
 from c8y_api import CumulocityApi
 from datetime import date, timedelta, datetime
